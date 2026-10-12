@@ -16,8 +16,8 @@ jobs:
         with:
           webhook_url: ${{ secrets.WEBHOOK_URL }}
           color: "2105893"
-          username: "Release Changelog"
-          avatar_url: "https://cdn.discordapp.com/avatars/487431320314576937/bd64361e4ba6313d561d54e78c9e7171.png"
-          content: "||@everyone||"
+          username: "Molin Hub Updater Notifer"
+          avatar_url: "https://raw.githubusercontent.com/ArtsoRBLX/MolinHubKeyless/refs/heads/main/molinhub-logo.png"
+          content: "@Script Update Ping A new update has dropped check it out"
           footer_title: "Changelog"
           reduce_headings: true
